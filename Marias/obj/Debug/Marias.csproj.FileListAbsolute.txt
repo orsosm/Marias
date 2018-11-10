@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\Marias\Marias\bin\Debug\Marias.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\Marias\Marias\bin\Debug\Marias.exe
+c:\users\admin\documents\visual studio 2017\Projects\Marias\Marias\bin\Debug\Marias.pdb
+c:\users\admin\documents\visual studio 2017\Projects\Marias\Marias\obj\Debug\Marias.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\Marias\Marias\obj\Debug\Marias.exe
+c:\users\admin\documents\visual studio 2017\Projects\Marias\Marias\obj\Debug\Marias.pdb
